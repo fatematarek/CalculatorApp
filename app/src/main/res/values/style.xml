@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="numBtn">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">15dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="android:backgroundTint">@color/lightgray</item>
+
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+
+    <style name="operatorBtn">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">15dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:backgroundTint">@color/lightgray</item>
+
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+</resources>
